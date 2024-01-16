@@ -20,21 +20,21 @@ const Index = () => {
 
 
   //Content
- const prline = ddddfdfdfdfdf
+ const prline = 'ddddfdfdfdfdf';
       const [username, setusername] = '';
-      const para = checking;
-      const title = Thunduja;
-      const exp = bgg;
-      const rightexp = ddd;
+      const para = 'checking';
+      const title = 'Thundujaa';
+      const exp = 'bgg';
+      const rightexp = 'ddd';
       const [designTitle, setdt] = '';
-      const d1 = Desidfdfdfgn 1;
-      const d2 = Dfffesign 2;
-      const d3 = Desifsdfsfgn 6;
-      const d4 = Design 4;
-      const d5 = Design 5;
-      const d6 = Design 6;
-      const email = info@sale;
-      const number = 696969969;
+      const d1 = 'Desidfdfdfgn 1';
+      const d2 = 'Dfffesign 2';
+      const d3 = 'Desifsdfsfgn 6';
+      const d4 = 'Design 4';
+      const d5 = 'Design 5';
+      const d6 = 'Design 6';
+      const email = 'info@sale';
+      const number = '696969969';
       const pic1Source = pic1;
       const pic2Source = pic2;
       const pic3Source = pic3;
