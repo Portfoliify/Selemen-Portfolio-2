@@ -23,7 +23,7 @@ const Index = () => {
  const prline = 'bruhhh';
       const [username, setusername] = '';
       const para = 'ithula';
-      const title = 'THUndujaa';
+      const title = 'hishar';
       const exp = 'onu';
       const rightexp = 'ila';
       const [designTitle, setdt] = '';
