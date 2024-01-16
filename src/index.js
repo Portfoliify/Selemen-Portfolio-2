@@ -23,7 +23,7 @@ const Index = () => {
  const prline = 'bruhhh';
       const [username, setusername] = '';
       const para = 'ithula';
-      const title = 'hishar';
+      const title = 'hinshar';
       const exp = 'onu';
       const rightexp = 'ila';
       const [designTitle, setdt] = '';
@@ -40,12 +40,12 @@ const Index = () => {
       const [pic3Source, setpic3Source] = useState([pic3, null]);
       const [pic4Source, setpic4Source] = useState([pic4, null]);
     
-      const [pic5Source, setpic5Source] = useState([pic12, null]);
-      const [pic6Source, setpic6Source] = useState([pic12, null]);
-      const [pic7Source, setpic7Source] = useState([pic12, null]);
-      const [pic8Source, setpic8Source] = useState([pic12, null]);
-      const [pic9Source, setpic9Source] = useState([pic12, null]);
-      const [pic10Source, setpic10Source] = useState([pic12, null]);
+      const [pic5Source, setpic5Source] = useState([pic5, null]);
+      const [pic6Source, setpic6Source] = useState([pic6, null]);
+      const [pic7Source, setpic7Source] = useState([pic7, null]);
+      const [pic8Source, setpic8Source] = useState([pic8, null]);
+      const [pic9Source, setpic9Source] = useState([pic9, null]);
+      const [pic10Source, setpic10Source] = useState([pic10, null]);
     
 //Content
   const router = createBrowserRouter([
