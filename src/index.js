@@ -20,31 +20,33 @@ const Index = () => {
 
 
   //Content
- const prline = 'ddddfdfdfdfdf';
+ const prline = 'bruhhh';
       const [username, setusername] = '';
-      const para = 'checking';
-      const title = 'Thundujaaa';
-      const exp = 'bgg';
-      const rightexp = 'ddd';
+      const para = 'ithula';
+      const title = 'THUnduja';
+      const exp = 'onu';
+      const rightexp = 'ila';
       const [designTitle, setdt] = '';
-      const d1 = 'Desidfdfdfgn 1';
-      const d2 = 'Dfffesign 2';
-      const d3 = 'Desifsdfsfgn 6';
+      const d1 = 'Desidgn 1';
+      const d2 = 'Dessdfign 2';
+      const d3 = 'Designwe 6';
       const d4 = 'Design 4';
       const d5 = 'Design 5';
       const d6 = 'Design 6';
       const email = 'info@sale';
-      const number = '696969969';
-      const pic1Source = pic1;
-      const pic2Source = pic2;
-      const pic3Source = pic3;
-      const pic4Source = pic4;
-      const pic5Source = pic5;
-      const pic6Source = pic6;
-      const pic7Source = pic7;
-      const pic8Source = pic8;
-      const pic9Source = pic9;
-      const pic10Source = pic10;
+      const number = '69696969';
+      const [pic1Source, setpic1Source] = useState([pic1, null]);
+      const [pic2Source, setpic2Source] = useState([pic2, null]);
+      const [pic3Source, setpic3Source] = useState([pic3, null]);
+      const [pic4Source, setpic4Source] = useState([pic4, null]);
+    
+      const [pic5Source, setpic5Source] = useState([pic12, null]);
+      const [pic6Source, setpic6Source] = useState([pic12, null]);
+      const [pic7Source, setpic7Source] = useState([pic12, null]);
+      const [pic8Source, setpic8Source] = useState([pic12, null]);
+      const [pic9Source, setpic9Source] = useState([pic12, null]);
+      const [pic10Source, setpic10Source] = useState([pic12, null]);
+    
 //Content
   const router = createBrowserRouter([
     {
