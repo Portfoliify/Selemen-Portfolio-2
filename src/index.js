@@ -20,21 +20,21 @@ const Index = () => {
 
 
   //Content
- const prline = 'bruhhh';
+ const prline = 'We will help you implement a project of any complexity';
       const [username, setusername] = '';
-      const para = 'ithula';
-      const title = 'hinshar';
-      const exp = 'onu';
-      const rightexp = 'ila';
+      const para = 'Selemen® — is a company for the construction and decoration of premises. We carry out projects on time';
+      const title = 'Selemen';
+      const exp = '20+ years on the market';
+      const rightexp = 'We guarantee the quality';
       const [designTitle, setdt] = '';
-      const d1 = 'Desidgn 1';
-      const d2 = 'Dessdfign 2';
-      const d3 = 'Designwe 6';
+      const d1 = 'Design 1';
+      const d2 = 'Design 2';
+      const d3 = 'Design 3';
       const d4 = 'Design 4';
       const d5 = 'Design 5';
       const d6 = 'Design 6';
-      const email = 'info@sale';
-      const number = '69696969';
+      const email = 'info@selemen';
+      const number = '+128148312084';
       const [pic1Source, setpic1Source] = useState([pic1, null]);
       const [pic2Source, setpic2Source] = useState([pic2, null]);
       const [pic3Source, setpic3Source] = useState([pic3, null]);
